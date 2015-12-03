@@ -1,0 +1,7 @@
+C:\Users\chathurangad\Documents\Project\11. Backup Software\BackItUp\BackItUp\bin\Release\BackItUp.exe
+C:\Users\chathurangad\Documents\Project\11. Backup Software\BackItUp\BackItUp\bin\Release\BackItUp.pdb
+C:\Users\chathurangad\Documents\Project\11. Backup Software\BackItUp\BackItUp\obj\Release\BackItUp.Form1.resources
+C:\Users\chathurangad\Documents\Project\11. Backup Software\BackItUp\BackItUp\obj\Release\BackItUp.Properties.Resources.resources
+C:\Users\chathurangad\Documents\Project\11. Backup Software\BackItUp\BackItUp\obj\Release\BackItUp.csproj.GenerateResource.Cache
+C:\Users\chathurangad\Documents\Project\11. Backup Software\BackItUp\BackItUp\obj\Release\BackItUp.exe
+C:\Users\chathurangad\Documents\Project\11. Backup Software\BackItUp\BackItUp\obj\Release\BackItUp.pdb
